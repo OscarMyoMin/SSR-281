@@ -1,4 +1,4 @@
-#SSR-208 8pm campaign timing application specification
+# SSR-208 8pm campaign timing application specification
 
 ## Purpose - ရည်ရွက်ချက် 1.0
 
